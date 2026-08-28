@@ -71,18 +71,18 @@ Follow on X: [@PlasmaAfric](https://x.com/PlasmaAfric)
 
 | Project | Description | Tools |
 |---|---|---|
-| OrionScope | Systematic on-chain asset recovery operation — smart contract forensics and recovery pipelines across Ethereum and Layer 2 networks | Dune Analytics/Python · Web3 · EVM/Multichain Forensics |
-| Plasma Africa | African regional branch of Plasma Foundation — community strategy, technical content, and ecosystem development across the continent | Community · Web3 · Technical Content |
-| [PacificTides](https://x.com/Pacifictidesbot) | Telegram-based perp trading bot built on Pacifica Perp DEX — on-chain execution, in-chat interface | Web3 · DeFi · Telegram |
+| [@Orion_Scope](https://x.com/Orion_Scope) | Systematic on-chain asset recovery operation, smart contract forensics and recovery pipelines across Ethereum and Layer 2 networks | Dune Analytics/Python · Web3 · EVM/Multichain Forensics |
+| [@PlasmaAfric](https://x.com/PlasmaAfric) | African regional branch of Plasma Foundation involving community strategy, technical content, and ecosystem development across the continent | Community · Web3 · Technical Content |
+| [PacificTides](https://x.com/Pacifictidesbot) | Telegram-based perp trading bot built on Pacifica Perp DEX involving on-chain execution, smooth perp trading interface & experience | Web3 · DeFi · Telegram |
 | *More in progress* | 20-project analytics portfolio across Sales, Healthcare, HR, Finance & Supply Chain | Excel · SQL · Power BI |
 ---
 
 ## Currently Building
 
-- 📊 A structured 20-project data analytics portfolio — each project delivered end-to-end with SQL, Power BI, and GitHub documentation
-- 🔍 OrionScope recovery pipeline — expanding on-chain forensics tooling across EVM-compatible networks
-- ⚡ PacificTides — growing the user base and expanding trading features on Pacifica Perp DEX
-- 🌍 Plasma Africa — community infrastructure, technical content, and developer engagement across Africa
+- 📊 A structured 20-project data analytics portfolio: Each project delivered end-to-end with SQL, Power BI, and GitHub documentation
+- 🔍 OrionScope recovery pipeline: Expanding on-chain forensics tooling across various networks
+- ⚡ PacificTides: Growing our user base and expanding trading features on Pacifica Perp DEX
+- 🌍 Plasma Africa: Community infrastructure, technical content, stablecoins adoption & usage across Africa
 
 ---
 
@@ -90,10 +90,10 @@ Follow on X: [@PlasmaAfric](https://x.com/PlasmaAfric)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeka%20Victor%20Prince-0071CE?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-prince)
 [![GitHub](https://img.shields.io/badge/GitHub-Viktor--prinz-041F41?style=flat&logo=github&logoColor=white)](https://github.com/Viktor-prinz)
-[![X / Twitter](https://img.shields.io/badge/X-PacificTides-000000?style=flat&logo=x&logoColor=white)](https://x.com/Pacifictidesbot)
+[![X / Twitter](https://img.shields.io/badge/X-Viktor_prinz-000000?style=flat&logo=x&logoColor=white)](https://x.com/Viktor_prinzz)
 
 ---
 
-**Remote — open to roles, collaborations, and projects in data analytics, Health, DeFi, on-chain research, community building & growth and emerging financial infrastructure.**
+**Remote · Open to roles, collaborations, and projects in data analytics, Health, DeFi, on-chain research, community building & growth and emerging financial infrastructure.**
 
 *Data. Health. Blockchain. Community.*
