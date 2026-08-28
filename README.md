@@ -22,17 +22,17 @@ Today I sit at the intersection of **structured data analysis**, **blockchain fo
 
 I build SQL-powered analytics pipelines, Power BI dashboards, and structured reporting systems. The work spans sales performance, healthcare operations, HR workforce analysis, and supply chain, both on the Blockchain & off-chain, whatever the domain, the standard is the same: clean data, rigorous methodology, honest interpretation of what the numbers actually say.
 
-**On-Chain assets Recovery — OrionScope**
+**On-Chain assets Recovery Services: OrionScope**
 
-I ama founding partner at OrionScope, a systematic, data-driven operation focused on recovering forgotten on-chain assets across several networks. Since 2023, OrionScope has recovered over **$1.5 million in dormant assets** using smart contract forensics, Dune Analytics queries, and production-grade recovery pipelines.
+I am a founding partner at OrionScope, a systematic, data-driven operation focused on recovering forgotten on-chain assets across several networks. Since 2023, OrionScope has recovered over **$1.5 million in dormant assets** using smart contract forensics, Dune Analytics queries, and production-grade recovery pipelines.
 Follow on X: [@Orion_Scope](https://x.com/Orion_Scope)
 
 
-**Pacific Tides**
+**Building Blockchain Products: Pacific Tides**
 
-Co-builder of **Pacific Tides**, a Telegram-based perpetual trading bot built on Pacifica Perp DEX. PacificTides brings on-chain perp trading directly into Telegram — designed for speed, accessibility, and real execution without leaving the interface. Follow on X: [@Pacifictidesbot](https://x.com/Pacifictidesbot)
+Co-builder of **Pacific Tides**, a Telegram-based perpetual trading bot built on Pacifica Perp DEX. PacificTides brings on-chain perp trading directly into Telegram, designed for speed, accessibility, and real execution without leaving the interface. Follow on X: [@Pacifictidesbot](https://x.com/Pacifictidesbot)
 
-**Community — Plasma Africa**
+**Building & Managing Communities: Plasma Africa**
 
 I co-lead **Plasma Africa**, the African regional branch of Plasma Foundation. My work here covers community strategy, technical content, developer engagement, and ecosystem growth across the continent. Building in public, building with intent.
 Follow on X: [@PlasmaAfric](https://x.com/PlasmaAfric)
@@ -41,10 +41,10 @@ Follow on X: [@PlasmaAfric](https://x.com/PlasmaAfric)
 
 ## Background
 
-- 🎓 BSc Human Anatomy — University of Nigeria Enugu Campus (2024)
+- 🎓 BSc Human Anatomy - University of Nigeria Enugu Campus (2024)
 - 🎓 Data Analyst - Self taught (2022-2024)
-- 📋 Team Lead & Field Data Collector — Malaria Consortium (2020, 2022, 2023)
-- 💉 Data Collector — National Immunization Programme (2017, 2018, 2019, 2020, 2022)
+- 📋 Team Lead & Field Data Collector - Malaria Consortium (2020, 2022, 2023)
+- 💉 Data Collector - National Immunization Programme (2017, 2018, 2019, 2020, 2022)
 - 🌍 Six rounds of national household surveys across Abia State and beyond
 - 🗣️ Native Language: Igbo, very fluent in English.
 
