@@ -91,6 +91,7 @@ Follow on X: [@PlasmaAfric](https://x.com/PlasmaAfric)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeka%20Victor%20Prince-0071CE?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-prince)
 [![GitHub](https://img.shields.io/badge/GitHub-Viktor--prinz-041F41?style=flat&logo=github&logoColor=white)](https://github.com/Viktor-prinz)
 [![X / Twitter](https://img.shields.io/badge/X-Viktor_prinz-000000?style=flat&logo=x&logoColor=white)](https://x.com/Viktor_prinzz)
+[![Linktree](https://dribbble.com/shots/18611211-Linktree-Logo)](https://linktr.ee/viktor_prinz?utm_source=linktree_profile_share&ltsid=76ff3855-150d-4d74-895e-87e456223fc3)
 
 ---
 
