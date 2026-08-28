@@ -71,8 +71,8 @@ Follow on X: [@PlasmaAfric](https://x.com/PlasmaAfric)
 
 | Project | Description | Tools |
 |---|---|---|
-| [@Orion_Scope](https://x.com/Orion_Scope) | Systematic on-chain asset recovery operation, smart contract forensics and recovery pipelines across Ethereum and Layer 2 networks | Dune Analytics/Python · Web3 · EVM/Multichain Forensics |
-| [@PlasmaAfric](https://x.com/PlasmaAfric) | African regional branch of Plasma Foundation involving community strategy, technical content, and ecosystem development across the continent | Community · Web3 · Technical Content |
+| [Orion_Scope](https://x.com/Orion_Scope) | Systematic on-chain asset recovery operation, smart contract forensics and recovery pipelines across Ethereum and Layer 2 networks | Dune Analytics/Python · Web3 · EVM/Multichain Forensics |
+| [PlasmaAfric](https://x.com/PlasmaAfric) | African regional branch of Plasma Foundation involving community strategy, technical content, and ecosystem development across the continent | Community · Web3 · Technical Content |
 | [PacificTides](https://x.com/Pacifictidesbot) | Telegram-based perp trading bot built on Pacifica Perp DEX involving on-chain execution, smooth perp trading interface & experience | Web3 · DeFi · Telegram |
 | *More in progress* | 20-project analytics portfolio across Sales, Healthcare, HR, Finance & Supply Chain | Excel · SQL · Power BI |
 ---
