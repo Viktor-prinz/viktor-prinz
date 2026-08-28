@@ -67,15 +67,14 @@ Follow on X: [@PlasmaAfric](https://x.com/PlasmaAfric)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat&logo=web3.js&logoColor=white)
 
 ---
-
 ## Featured Projects
 
 | Project | Description | Tools |
 |---|---|---|
-| [Walmart Stores Analysis](https://github.com/Viktor-prinz/Walmart-Stores-Analysis) | End-to-end sales performance analysis of 45 US stores — 67 SQL queries, 4-page Power BI dashboard, full GitHub documentation | Excel · T-SQL · Power BI · DAX |
+| OrionScope | Systematic on-chain asset recovery operation — smart contract forensics and recovery pipelines across Ethereum and Layer 2 networks | Dune Analytics/Python · Web3 · EVM/Multichain Forensics |
+| Plasma Africa | African regional branch of Plasma Foundation — community strategy, technical content, and ecosystem development across the continent | Community · Web3 · Technical Content |
 | [PacificTides](https://x.com/Pacifictidesbot) | Telegram-based perp trading bot built on Pacifica Perp DEX — on-chain execution, in-chat interface | Web3 · DeFi · Telegram |
 | *More in progress* | 20-project analytics portfolio across Sales, Healthcare, HR, Finance & Supply Chain | Excel · SQL · Power BI |
-
 ---
 
 ## Currently Building
