@@ -1,20 +1,52 @@
-# Hi, I'm Emeka Victor Prince 👋
+# Hi, I'm Emeka Victor Prince
 
-**Data Analyst · Blockchain Researcher · On-Chain Recovery Specialist**
+**Anatomist · Data Analyst · Blockchain Researcher · On-Chain Expert**
 
 > *I turn data into decisions and dormant assets into recovered value.*
 
 ---
 
+# About Me
+
+BSc Human Anatomy, University of Nigeria Enugu Campus. Started in public health field research with six rounds of national household surveys across Malaria Consortium and the National Immunization Programme, leading teams, resolving field problems, and delivering verified data on tight timelines. That background gave me something most analysts don't have coming in: a practical understanding of what messy, real-world data actually looks like before it hits a spreadsheet.
+
+That grounding eventually pushed me toward data analytics, blockchain research, and on-chain intelligence, disciplines that reward the same instincts field research builds: precision, pattern recognition, and an intolerance for sloppy conclusions.
+
+Today I sit at the intersection of **structured data analysis**, **blockchain forensics**, and **community strategy** and I treat them as one practice rather than three separate tracks.
+
+---
+
 ## What I Do
 
-By day, I build SQL-powered analytics pipelines, Power BI dashboards, and structured reporting systems that help organisations understand what their data is actually saying.
+**Data Analytics**
 
-By discipline, I run **OrionScope** — a systematic, data-driven operation that has recovered over **$1.5 million in forgotten on-chain assets** across Ethereum and Layer 2 networks since 2023, using smart contract forensics, Dune Analytics, and production-grade recovery pipelines.
+I build SQL-powered analytics pipelines, Power BI dashboards, and structured reporting systems. The work spans sales performance, healthcare operations, HR workforce analysis, and supply chain, both on the Blockchain & off-chain, whatever the domain, the standard is the same: clean data, rigorous methodology, honest interpretation of what the numbers actually say.
 
-I also **co-lead Plasma Africa**, the African regional branch of Plasma Foundation — driving community strategy, technical content, and ecosystem development across the continent. My community building work sits at the intersection of blockchain education, developer engagement, and grassroots ecosystem growth for African Web3 communities.
+**On-Chain assets Recovery — OrionScope**
 
-My work lives at the intersection of **rigorous analysis**, **blockchain intelligence**, and **strategic communication** — three disciplines I treat as one unified practice rather than separate tracks.
+I ama founding partner at OrionScope, a systematic, data-driven operation focused on recovering forgotten on-chain assets across several networks. Since 2023, OrionScope has recovered over **$1.5 million in dormant assets** using smart contract forensics, Dune Analytics queries, and production-grade recovery pipelines.
+[@Orion_Scope](https://x.com/Orion_Scope)
+
+
+**PacificTides**
+
+Co-builder of **PacificTides**, a Telegram-based perpetual trading bot built on Pacifica Perp DEX. PacificTides brings on-chain perp trading directly into Telegram — designed for speed, accessibility, and real execution without leaving the interface. Follow on X: [@Pacifictidesbot](https://x.com/Pacifictidesbot)
+
+**Community — Plasma Africa**
+
+I co-lead **Plasma Africa**, the African regional branch of Plasma Foundation. My work here covers community strategy, technical content, developer engagement, and ecosystem growth across the continent. Building in public, building with intent.
+[@PlasmaAfric](https://x.com/PlasmaAfric)
+
+---
+
+## Background
+
+- 🎓 BSc Human Anatomy — University of Nigeria Enugu Campus (2024)
+- 🎓 Data Analyst - Self taught (2022-2024)
+- 📋 Team Lead & Field Data Collector — Malaria Consortium (2020, 2022, 2023)
+- 💉 Data Collector — National Immunization Programme (2017, 2018, 2019, 2020, 2022)
+- 🌍 Six rounds of national household surveys across Abia State and beyond
+- 🗣️ Native Language: Igbo, very fluent in English.
 
 ---
 
@@ -24,7 +56,7 @@ My work lives at the intersection of **rigorous analysis**, **blockchain intelli
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-0071CE?style=flat&logo=microsoft&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
 
@@ -40,26 +72,29 @@ My work lives at the intersection of **rigorous analysis**, **blockchain intelli
 
 | Project | Description | Tools |
 |---|---|---|
-| [Walmart Stores Analysis](https://github.com/Viktor-prinz/Walmart-Stores-Analysis) | End-to-end sales performance analysis of 45 US stores — 67 SQL queries, 4-page Power BI dashboard | Excel · T-SQL · Power BI · DAX |
-| *More coming soon* | 20-project analytics portfolio across Sales, Healthcare, HR, Finance & Supply Chain | Excel · SQL · Power BI |
+| [Walmart Stores Analysis](https://github.com/Viktor-prinz/Walmart-Stores-Analysis) | End-to-end sales performance analysis of 45 US stores — 67 SQL queries, 4-page Power BI dashboard, full GitHub documentation | Excel · T-SQL · Power BI · DAX |
+| [PacificTides](https://x.com/Pacifictidesbot) | Telegram-based perp trading bot built on Pacifica Perp DEX — on-chain execution, in-chat interface | Web3 · DeFi · Telegram |
+| *More in progress* | 20-project analytics portfolio across Sales, Healthcare, HR, Finance & Supply Chain | Excel · SQL · Power BI |
 
 ---
 
 ## Currently Building
 
-- 📊 A structured **20-project data analytics portfolio** spanning Sales & Revenue, Healthcare, HR & Workforce, Finance & Investment, and Supply Chain analytics
-- 🔍 **OrionScope** recovery pipeline — expanding on-chain forensics tooling across EVM-compatible networks
-- 🌍 **Plasma Africa** community infrastructure — ecosystem growth, technical content, and developer engagement across Africa
+- 📊 A structured 20-project data analytics portfolio — each project delivered end-to-end with SQL, Power BI, and GitHub documentation
+- 🔍 OrionScope recovery pipeline — expanding on-chain forensics tooling across EVM-compatible networks
+- ⚡ PacificTides — growing the user base and expanding trading features on Pacifica Perp DEX
+- 🌍 Plasma Africa — community infrastructure, technical content, and developer engagement across Africa
 
 ---
 
-## Let's Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeka%20Victor%20Prince-0071CE?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-prince)
 [![GitHub](https://img.shields.io/badge/GitHub-Viktor--prinz-041F41?style=flat&logo=github&logoColor=white)](https://github.com/Viktor-prinz)
+[![X / Twitter](https://img.shields.io/badge/X-PacificTides-000000?style=flat&logo=x&logoColor=white)](https://x.com/Pacifictidesbot)
 
 ---
 
-**Remote · Open to roles, collaborations, and projects in data analytics, DeFi, on-chain research, and emerging financial infrastructure.**
+**Remote — open to roles, collaborations, and projects in data analytics, Health, DeFi, on-chain research, community building & growth and emerging financial infrastructure.**
 
-*Data. Chain. Community.*
+*Data. Health. Blockchain. Community.*
