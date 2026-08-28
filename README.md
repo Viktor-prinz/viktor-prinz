@@ -67,7 +67,7 @@ Follow on X: [@PlasmaAfric](https://x.com/PlasmaAfric)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat&logo=web3.js&logoColor=white)
 
 ---
-## Featured Projects
+## Projects
 
 | Project | Description | Tools |
 |---|---|---|
