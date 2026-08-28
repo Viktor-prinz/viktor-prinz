@@ -25,7 +25,7 @@ I build SQL-powered analytics pipelines, Power BI dashboards, and structured rep
 **On-Chain assets Recovery — OrionScope**
 
 I ama founding partner at OrionScope, a systematic, data-driven operation focused on recovering forgotten on-chain assets across several networks. Since 2023, OrionScope has recovered over **$1.5 million in dormant assets** using smart contract forensics, Dune Analytics queries, and production-grade recovery pipelines.
-[@Orion_Scope](https://x.com/Orion_Scope)
+Follow on X: [@Orion_Scope](https://x.com/Orion_Scope)
 
 
 **PacificTides**
@@ -35,7 +35,7 @@ Co-builder of **PacificTides**, a Telegram-based perpetual trading bot built on 
 **Community — Plasma Africa**
 
 I co-lead **Plasma Africa**, the African regional branch of Plasma Foundation. My work here covers community strategy, technical content, developer engagement, and ecosystem growth across the continent. Building in public, building with intent.
-[@PlasmaAfric](https://x.com/PlasmaAfric)
+Follow on X: [@PlasmaAfric](https://x.com/PlasmaAfric)
 
 ---
 
