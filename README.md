@@ -8,7 +8,7 @@
 
 # About Me
 
-BSc Human Anatomy, University of Nigeria Enugu Campus. Started in public health field research with six rounds of national household surveys across Malaria Consortium and the National Immunization Programme, leading teams, resolving field problems, and delivering verified data on tight timelines. That background gave me something most analysts don't have coming in: a practical understanding of what messy, real-world data actually looks like before it hits a spreadsheet.
+I obtained a BSc degree in Human Anatomy, from the University of Nigeria Enugu Campus. I started out in public health field research with six rounds of national household surveys across Malaria Consortium and the National Immunization Program, leading teams, resolving field problems, and delivering verified data on tight timelines. That background gave me something most analysts don't have coming in: a practical understanding of what messy, real-world data actually looks like before it hits a spreadsheet.
 
 That grounding eventually pushed me toward data analytics, blockchain research, and on-chain intelligence, disciplines that reward the same instincts field research builds: precision, pattern recognition, and an intolerance for sloppy conclusions.
 
