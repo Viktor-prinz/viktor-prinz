@@ -28,9 +28,9 @@ I ama founding partner at OrionScope, a systematic, data-driven operation focuse
 Follow on X: [@Orion_Scope](https://x.com/Orion_Scope)
 
 
-**PacificTides**
+**Pacific Tides**
 
-Co-builder of **PacificTides**, a Telegram-based perpetual trading bot built on Pacifica Perp DEX. PacificTides brings on-chain perp trading directly into Telegram — designed for speed, accessibility, and real execution without leaving the interface. Follow on X: [@Pacifictidesbot](https://x.com/Pacifictidesbot)
+Co-builder of **Pacific Tides**, a Telegram-based perpetual trading bot built on Pacifica Perp DEX. PacificTides brings on-chain perp trading directly into Telegram — designed for speed, accessibility, and real execution without leaving the interface. Follow on X: [@Pacifictidesbot](https://x.com/Pacifictidesbot)
 
 **Community — Plasma Africa**
 
@@ -71,9 +71,9 @@ Follow on X: [@PlasmaAfric](https://x.com/PlasmaAfric)
 
 | Project | Description | Tools |
 |---|---|---|
-| [Orion_Scope](https://x.com/Orion_Scope) | Systematic on-chain asset recovery operation, smart contract forensics and recovery pipelines across Ethereum and Layer 2 networks | Dune Analytics/Python · Web3 · EVM/Multichain Forensics |
-| [PlasmaAfric](https://x.com/PlasmaAfric) | African regional branch of Plasma Foundation involving community strategy, technical content, and ecosystem development across the continent | Community · Web3 · Technical Content |
-| [PacificTides](https://x.com/Pacifictidesbot) | Telegram-based perp trading bot built on Pacifica Perp DEX involving on-chain execution, smooth perp trading interface & experience | Web3 · DeFi · Telegram |
+| [Orion Scope](https://x.com/Orion_Scope) | Systematic on-chain asset recovery operation, smart contract forensics and recovery pipelines across Ethereum and Layer 2 networks | Dune Analytics/Python · Web3 · EVM/Multichain Forensics |
+| [Plasma Africa](https://x.com/PlasmaAfric) | African regional branch of Plasma Foundation involving community strategy, technical content, and ecosystem development across the continent | Community · Web3 · Technical Content |
+| [Pacific Tides](https://x.com/Pacifictidesbot) | Telegram-based perp trading bot built on Pacifica Perp DEX involving on-chain execution, smooth perp trading interface & experience | Web3 · DeFi · Telegram |
 | *More in progress* | 20-project analytics portfolio across Sales, Healthcare, HR, Finance & Supply Chain | Excel · SQL · Power BI |
 ---
 
